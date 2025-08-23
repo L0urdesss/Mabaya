@@ -1,5 +1,7 @@
 # 🌸 Mabaya - Flower Recognition
 
+![App Preview](Preview.png)
+
 Mabaya is a mobile application that uses a **YOLOv5 model (converted into TensorFlow Lite)** to detect and recognize flowers.  
 The app can identify **5 types of flowers**:  
 🌹 **Rose** | 🌷 **Tulips** | 🌼 **Dandelion** | 🤍 **Sampaguita** | 🌻 **Sunflower**
