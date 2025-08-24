@@ -24,3 +24,12 @@ The app can identify **5 types of flowers**:
 - **Gradle** – build and dependency management  
 
 ---
+
+## ⚙️ Setup / Installation  
+
+Follow these steps to run the project on your local machine:  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/your-username/Mabaya.git
+cd Mabaya
