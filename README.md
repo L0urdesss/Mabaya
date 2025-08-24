@@ -24,5 +24,3 @@ The app can identify **5 types of flowers**:
 - **Gradle** – build and dependency management  
 
 ---
-
-## 📂 Project Structure  
